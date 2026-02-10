@@ -1,0 +1,24 @@
+img{
+    width: 350px;
+    border-radius: 25px;
+    border:8px solid #ffffff;
+}
+body{
+    text-align: center;
+    font-family: Rancho;
+    background: rgb(216, 192, 255);
+    color: rgb(150, 124, 254);
+    font-size: 30px;
+    margin-bottom:10px;
+    text-shadow: 
+        -3px -3px 0 #ffffff,  
+         3px -3px 0 #ffffff,
+        -3px  3px 0 #ffffff,
+         3px  3px 0 #ffffff;
+    
+}
+
+.description{
+    transform: translateY(-100%);
+}
+
